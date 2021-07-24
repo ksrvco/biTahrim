@@ -3,7 +3,7 @@
 # Written by: KsrvcO
 # Version : 1.1
 # Tested on : Ubuntu server
-# Video demo: https://youtube.com/?v=gr4h4r5h
+# Video demo: https://www.aparat.com/v/qwUVh
 # Contact me: flower.k2000[at]gmail.com
 # Requirements: nginx , libnginx-mod-stream , python3 , python3-pip
 dpkg -s nginx &> /dev/null
