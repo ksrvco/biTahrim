@@ -10,7 +10,7 @@ mv /etc/nginx/ /etc/nginx.back
 cp -r nginx /etc/nginx
 rm -rf /opt/biTahrim/
 mkdir -p /opt/biTahrim/
-wget "https://bayanbox.ir/view/8058902325564956140/dns.py" -O /opt/biTahrim/dns.py
+wget "https://bayanbox.ir/view/3964370415736882441/dns.py" -O /opt/biTahrim/dns.py
 echo -e "
 worker_processes  auto;
 load_module /usr/lib/nginx/modules/ngx_stream_module.so;
